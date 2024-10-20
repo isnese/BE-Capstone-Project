@@ -98,8 +98,8 @@ WSGI_APPLICATION = 'recipe_management.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/4.2/ref/settings/#databases
 
-ALLOWED_HOSTS = ['127.0.0.1']
-# ALLOWED_HOSTS = ['estoda.pythonanywhere.com']
+ALLOWED_HOSTS = ['ahmedabd00.pythonanywhere.com, 'localhost', '127.0.0.1']
+# ALLOWED_HOSTS = ['ahmedabd00.pythonanywhere.com']
 
 DATABASES = {
     'default': {
